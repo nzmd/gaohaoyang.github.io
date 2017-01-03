@@ -9,7 +9,7 @@
 title: 南之默
 brief-intro: 只要想起一生中后悔的事 梅花便落了下来
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "https://nzmd.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
